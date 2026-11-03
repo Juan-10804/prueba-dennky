@@ -1,6 +1,6 @@
 # 🚀 Reto Técnico Front-End
 
-¡Bienvenida al reto técnico! El objetivo de esta prueba no es evaluar sintaxis de memoria, sino tu criterio de **maquetación**, estructura HTML/CSS, resolución de problemas y cómo manejas la lógica básica de interacción.
+¡Bienvenido al reto técnico! El objetivo de esta prueba no es evaluar sintaxis de memoria, sino tu criterio de **maquetación**, estructura HTML/CSS, resolución de problemas y cómo manejas la lógica básica de interacción.
 
 ---
 
