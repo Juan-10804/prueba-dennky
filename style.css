@@ -73,3 +73,18 @@ form input{
     font-size: 12px;
     margin: 15px 0;
 }
+.btn-google {
+    width: 100%;
+    background: #f8f9fa;
+    border: 1px solid #ddd;
+    padding: 9px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.pie {
+    text-align: center;
+    font-size: 12px;
+    color: #666;
+    margin-top: 20px;
+}
