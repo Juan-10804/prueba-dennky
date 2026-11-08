@@ -1,65 +1,72 @@
-body{
+body {
     background-color: #f0f2f5;
-    font-family: Arial , sans-serif;
+    font-family: Arial, sans-serif;
     display: flex;
     justify-content: center;
     align-items: center;
     height: 100vh;
     margin: 0;
 }
-.contenedor-principal{
-width: 850px;
-background-color: white;
-display: flex;
-border-radius: 10px;
-overflow: hidden;
-box-shadow: 0px 4px 10px rgba(0,0, 0, 1);
+
+.container {
+    width: 850px;
+    background-color: white;
+    display: flex;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
 }
 
-.lado-izquierdo{
+.visual-section {
     width: 50%;
     background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.6)), url('fondo.png');
     background-size: cover;
     background-position: center;
     color: white;
     padding: 30px;
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-
+    box-sizing: border-box;
 }
 
 .logo {
-    font-variant: bold;
-    font-size: 18px
+    font-weight: bold;
+    font-size: 18px;
 }
-.texto-foto h2{
-    font-size: 22px;
-    margin-bottom: 10px;
-}
-.lado-derecho{
+
+.form-section {
     width: 50%;
     padding: 40px;
+    box-sizing: border-box;
 }
-.sub{
+
+.form-section p {
     color: gray;
     font-size: 13px;
-    margin-bottom: 23px;
+    margin-bottom: 20px;
 }
-form label{
+
+form label {
     display: block;
     font-size: 12px;
     color: #666;
     margin-top: 10px;
 }
-form input{
+
+form input {
     width: 100%;
     padding: 8px;
     margin-top: 5px;
     border: 1px solid #ccc;
     border-radius: 5px;
+    box-sizing: border-box;
 }
-.btn-crear{
+
+form input:focus-visible {
+    outline: none;
+    border-color: #5b3cc4;
+    box-shadow: 0 0 0 2px rgba(91, 60, 196, 0.3);
+}
+
+button {
     width: 100%;
     background: #5b3cc4;
     color: white;
@@ -68,25 +75,4 @@ form input{
     border-radius: 5px;
     margin-top: 20px;
     cursor: pointer;
-}
-.separador{
-    text-align: center;
-    color: #aaa;
-    font-size: 12px;
-    margin: 15px 0;
-}
-.btn-google {
-    width: 100%;
-    background: #f8f9fa;
-    border: 1px solid #ddd;
-    padding: 9px;
-    border-radius: 5px;
-    cursor: pointer;
-}
-
-.pie {
-    text-align: center;
-    font-size: 12px;
-    color: #666;
-    margin-top: 20px;
 }
