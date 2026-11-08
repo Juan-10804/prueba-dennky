@@ -44,6 +44,31 @@ Referencia: https://dribbble.com/shots/25536172-Login-Register-Page-Nucleus-UI
   - Lo que te costó realizar.
 - Envía el enlace de tu GitHub al equipo evaluador.
 
+---------------------------------------------------------------
+Pasos a abrir el proyecto :
+1. Descargar el archivo y clonar  en mi computadore lo guarde con otro nombre 
+2. Abri la carpeta del proyecto y lo abri con visual code 
+3. Despues  abri la carpeta en mi explorador de archivos y ahi me salia index.htm y cuando hice doble click se abrio en mi navegador 
+
+Pasos que realize:
+1. Cree carpetas en mi proyecto como index.html , script.js y styles.css
+2. Despues para el diseño de que se vea la visualizacion color use CSS
+3. Despues usea script.js para dar logica ala pagina web 
+4. Subi el fondo de una imagen para la pagina 
+5. Despues subi mis commits para subir a mi github 
+
+Lo que aprendi :
+1. Fue que al conectar los archivos osea html con script y de ahi con el fondo si no conincide no funciona 
+2. Despues de que siempre tiene que estar ordenado el codigo para que despus no tenga ningun error 
+
+Mejoras que realize :
+1. Por ahora no hce ninguna mejora 
+
+Lo que me costo realizar :
+1. Fue que todo tiene que ser en ingles y eso se me dificulto 
+2. Tambien fue al momnto de montar el fondo  de imagen en mi archivo  y conectarlo tuve un dificultad 
+
+
 ## Nota final 🙂
 - **Restricción de tecnologías:** solo se permite HTML, CSS y JavaScript. No se aceptan frameworks (Vue, React, etc.), preprocesadores ni librerías de JS o CSS (como Bootstrap o Tailwind). Las fuentes e iconos externos (por ejemplo, Google Fonts) sí están permitidos.
 - Si tienes mejoras con respecto al diseño planteado, te animamos a que las realices.
