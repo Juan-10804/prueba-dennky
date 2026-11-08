@@ -19,7 +19,7 @@ body {
 
 .visual-section {
     width: 50%;
-    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.6)), url('fondo.png');
+    background: url('fondo.png.png');
     background-size: cover;
     background-position: center;
     color: white;
