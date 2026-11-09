@@ -60,6 +60,9 @@ Pasos que realize:
 Lo que aprendi :
 1. Fue que al conectar los archivos osea html con script y de ahi con el fondo si no conincide no funciona 
 2. Despues de que siempre tiene que estar ordenado el codigo para que despues no tenga ningun error 
+3. Que tiene que estar en ingles el codigo
+4. Subir mis cambios a gitgub
+5. Clonar el archivo desde el comienzo y ver en la web como voy avanzando 
 
 Mejoras que realize :
 1. Por ahora no hce ninguna mejora 
