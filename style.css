@@ -76,3 +76,9 @@ button {
     margin-top: 20px;
     cursor: pointer;
 }
+button {
+    width: 100%;
+    color: #3b06eb;
+    border: nome;
+    padding: 10px;
+}
