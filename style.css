@@ -62,7 +62,7 @@ form input {
 
 form input:focus-visible {
     outline: none;
-    border-color: #5b3cc4;
+    border-color: #3b06eb;
     box-shadow: 0 0 0 2px rgba(91, 60, 196, 0.3);
 }
 

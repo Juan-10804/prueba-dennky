@@ -59,7 +59,7 @@ Pasos que realize:
 
 Lo que aprendi :
 1. Fue que al conectar los archivos osea html con script y de ahi con el fondo si no conincide no funciona 
-2. Despues de que siempre tiene que estar ordenado el codigo para que despus no tenga ningun error 
+2. Despues de que siempre tiene que estar ordenado el codigo para que despues no tenga ningun error 
 
 Mejoras que realize :
 1. Por ahora no hce ninguna mejora 
@@ -67,6 +67,9 @@ Mejoras que realize :
 Lo que me costo realizar :
 1. Fue que todo tiene que ser en ingles y eso se me dificulto 
 2. Tambien fue al momnto de montar el fondo  de imagen en mi archivo  y conectarlo tuve un dificultad 
+
+Reforzar :
+1. Quisiera reforzar mas en HMTL ,scrip.js style.css y php tmb esos quiesiera reforzar mas para aprender mucho mas  de estos lenguajes 
 
 
 ## Nota final 🙂
