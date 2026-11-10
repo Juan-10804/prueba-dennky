@@ -41,3 +41,12 @@ aaspgag
 ## Nota final 🙂
 - Eres libre de usar las librerías que consideres necesarias.
 - Si tienes mejoras con respecto al diseño planteado, te animamos a que las realices.
+
+## Continuación
+- Agregar lógica para validar que los dos campos de contraseña se han iguales, sino mostrar error y no dejar registrar
+- Mostrar o no el campo de contraseña
+- La contraseña debe tener mínimo una mayúscula, 8 caracteres, 1 número y 1 carácter especial
+- Mejorar el estilo del botón
+   <img width="748" height="138" alt="image" src="https://github.com/user-attachments/assets/efc09759-7f3c-4259-bd34-be82f95c700b" />
+- Adaptar todo el formulario a todos los dispositivos.
+
