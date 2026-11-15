@@ -30,8 +30,7 @@ Referencia: https://dribbble.com/shots/25536172-Login-Register-Page-Nucleus-UI
 3. Extra / Plus (Opcional pero valorado)
 - Diseño Responsivo: Que el formulario se adapte de forma fluida a pantallas móviles y de escritorio.
 
-sasjasasgpasgapisn
-aaspgag
+
 
 ## 📦 Entrega
 - Sube tus cambios a la rama principal (main) de tu repositorio forkeado.
