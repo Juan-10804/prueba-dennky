@@ -7,7 +7,7 @@ document.querySelector("form").addEventListener("submit", function(e) {
 
 function verification(){
 
- let Password = document.getElementById('pasaeord');
+ let Password = document.getElementById('password');
  let ConfirmPassword = document.getElementById('confirmpassword');
 
  let regex = /^(?=.*[A-Z])(?=.*\d)(?=.*[!@#$%^&*(),.?":{}|<>]).{8,}$/;
