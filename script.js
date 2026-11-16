@@ -7,6 +7,7 @@ document.querySelector("form").addEventListener("submit", function(e) {
 
 
 function verification(){
+  console.log("Verificacion exitosa")
 
  let password = document.getElementById('password');
  let confirmPassword = document.getElementById('confirmpassword');
