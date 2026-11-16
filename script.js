@@ -5,10 +5,11 @@ document.querySelector("form").addEventListener("submit", function(e) {
     alert("Tu cuenta ha sido creada exitosamente ")
 });
 
+
 function verification(){
 
- let Password = document.getElementById('password');
- let ConfirmPassword = document.getElementById('confirmpassword');
+ let password = document.getElementById('password');
+ let confirmPassword = document.getElementById('confirmpassword');
 
  let regex = /^(?=.*[A-Z])(?=.*\d)(?=.*[!@#$%^&*(),.?":{}|<>]).{8,}$/;
 
@@ -21,7 +22,7 @@ function verification(){
 
     document.getElementById("passError").style.display = "none";
 
-if(Password.value != ConfirmPassword.value){
+if(password.value != confirmPassword.value){
     document.getElementById("matchError").style.display("block")
 
     return false;   
