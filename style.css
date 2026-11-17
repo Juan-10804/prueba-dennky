@@ -101,12 +101,7 @@ button:hover {
     background-color: #6f6090;
     
 }
-.disguise{
-    display: none;
-}
-.show{
-    display: none;
-}
+
 
 @media(max-width: 768px){
 
